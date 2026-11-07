@@ -1,0 +1,20 @@
+{
+  "chrome": {
+    "windows": [
+      "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+      "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    ],
+    "capabilities": ["web_search", "music_play"],
+    "aliases": ["browser", "google", "internet"]
+  },
+  "notepad": {
+    "windows": ["notepad"],
+    "capabilities": ["text_write"],
+    "aliases": ["editor", "text editor"]
+  },
+  "calc": {
+    "windows": ["calc"],
+    "capabilities": ["compute"],
+    "aliases": ["calculator"]
+  }
+}
